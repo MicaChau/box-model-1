@@ -1,0 +1,10 @@
+.box{
+    border: green 30px solid;
+    width: 300px;
+}
+h1{
+    margin: 50px 20px;
+    text-align: center;
+    background: gainsboro;
+    color: green;
+}
